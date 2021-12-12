@@ -1,2 +1,3 @@
-# questions-in-the-essence-of-computing
-The Thinking Questions in The Essence Of Computing
+# The Thinking Questions in The Essence Of Computing
+
+1. How to turn a deck of cards into a simple computer through command control
